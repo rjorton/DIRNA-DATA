@@ -1,0 +1,25 @@
+Run	Host_Age	host_description	host_disease_outcome	Host_disease	Host	host_sex	host_subject_id	host_tissue_sampled	Instrument	Isolate	Isolation_source
+SRR10279220	29	Caucasian/White	Not symptomatic	Influenza	Homo sapiens	female	1013	Nasal wash	Illumina HiSeq 2000	1013_Day_2_wexo	Nasal wash
+SRR10279221	27	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1012	Nasal wash	Illumina HiSeq 2000	1012_Day_6_wexo	Nasal wash
+SRR10279222	27	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1012	Nasal wash	Illumina HiSeq 2000	1012_Day_3_wexo	Nasal wash
+SRR10279223	27	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1012	Nasal wash	Illumina HiSeq 2000	1012_Day_2_wexo	Nasal wash
+SRR10279224	22	Caucasian/White	Symptomatic	Influenza	Homo sapiens	female	1010	Nasal wash	Illumina HiSeq 2000	1010_Day_3_wexo	Nasal wash
+SRR10279225	25	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1008	Nasal wash	Illumina HiSeq 2000	1008_Day_2_wexo	Nasal wash
+SRR10279226	28	Caucasian/White	Symptomatic	Influenza	Homo sapiens	female	1006	Nasal wash	Illumina HiSeq 2000	1006_Day_3_wexo	Nasal wash
+SRR10279227	26	Caucasian/White	Not symptomatic	Influenza	Homo sapiens	male	1015	Nasal wash	Illumina HiSeq 2000	1015_Day_4_noexo	Nasal wash
+SRR10279228	29	Caucasian/White	Not symptomatic	Influenza	Homo sapiens	female	1013	Nasal wash	Illumina HiSeq 2000	1013_Day_3_noexo	Nasal wash
+SRR10279229	29	Caucasian/White	Not symptomatic	Influenza	Homo sapiens	female	1013	Nasal wash	Illumina HiSeq 2000	1013_Day_2_noexo	Nasal wash
+SRR10279230	27	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1012	Nasal wash	Illumina HiSeq 2000	1012_Day_6_noexo	Nasal wash
+SRR10279231	28	Mixed ethnicity	Symptomatic	Influenza	Homo sapiens	female	1006	Nasal wash	Illumina HiSeq 2000	1006_Day_1_wexo	Nasal wash
+SRR10279232	27	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1012	Nasal wash	Illumina HiSeq 2000	1012_Day_3_noexo	Nasal wash
+SRR10279233	27	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1012	Nasal wash	Illumina HiSeq 2000	1012_Day_2_noexo	Nasal wash
+SRR10279234	22	Caucasian/White	Symptomatic	Influenza	Homo sapiens	female	1010	Nasal wash	Illumina HiSeq 2000	1010_Day_3_noexo	Nasal wash
+SRR10279235	25	Caucasian/White	Symptomatic	Influenza	Homo sapiens	male	1008	Nasal wash	Illumina HiSeq 2000	1008_Day_2_noexo	Nasal wash
+SRR10279236	28	Caucasian/White	Symptomatic	Influenza	Homo sapiens	female	1006	Nasal wash	Illumina HiSeq 2000	1006_Day_3_noexo	Nasal wash
+SRR10279237	28	Mixed ethnicity	Symptomatic	Influenza	Homo sapiens	female	1006	Nasal wash	Illumina HiSeq 2000	1006_Day_1_noexo	Nasal wash
+SRR10279238	29	Black/Africa Origin	Symptomatic	Influenza	Homo sapiens	female	1001	Nasal wash	Illumina HiSeq 2000	1001_Day_2_noexo	Nasal wash
+SRR10279239	29	Black/Africa Origin	Symptomatic	Influenza	Homo sapiens	female	1001	Nasal wash	Illumina HiSeq 2000	1001_Day_1_noexo	Nasal wash
+SRR10279240	26	Caucasian/White	Not symptomatic	Influenza	Homo sapiens	male	1015	Nasal wash	Illumina HiSeq 2000	1015_Day_4_wexo	Nasal wash
+SRR10279241	29	Caucasian/White	Not symptomatic	Influenza	Homo sapiens	female	1013	Nasal wash	Illumina HiSeq 2000	1013_Day_3_wexo	Nasal wash
+SRR10279242	29	Black/Africa Origin	Symptomatic	Influenza	Homo sapiens	female	1001	Nasal wash	Illumina HiSeq 2000	1001_Day_2_wexo	Nasal wash
+SRR10279243	29	Black/Africa Origin	Symptomatic	Influenza	Homo sapiens	female	1001	Nasal wash	Illumina HiSeq 2000	1001_Day_1_wexo	Nasal wash

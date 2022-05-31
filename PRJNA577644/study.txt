@@ -1,0 +1,6 @@
+BioProject
+https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA743179
+StudyPaper
+https://journals.asm.org/doi/10.1128/JVI.01657-16
+RefSeqs
+https://www.ncbi.nlm.nih.gov/nuccore/CY114381,CY114382,CY114383,CY114384,CY114385,CY114386,CY114387,CY114388

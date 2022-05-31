@@ -1,0 +1,25 @@
+Run	Host	Instrument	Isolation_source	Library Name
+SRR15084902	Homo sapiens	Illumina MiSeq	Lab adapted strain	8hpi
+SRR15084903	Homo sapiens	Illumina MiSeq	Lab adapted strain	5.5hpi
+SRR15084904	Homo sapiens	Illumina MiSeq	Lab adapted strain	5hpi
+SRR15084905	Homo sapiens	Illumina MiSeq	Lab adapted strain	4.5hpi
+SRR15084906	Homo sapiens	Illumina MiSeq	Lab adapted strain	4dpi
+SRR15084907	Homo sapiens	Illumina MiSeq	Lab adapted strain	3.5dpi
+SRR15084908	Homo sapiens	Illumina MiSeq	Lab adapted strain	1.4dpi
+SRR15084909	Homo sapiens	Illumina MiSeq	Lab adapted strain	21dpi
+SRR15084910	Homo sapiens	Illumina MiSeq	Lab adapted strain	20.4dpi
+SRR15084911	Homo sapiens	Illumina MiSeq	Lab adapted strain	20dpi
+SRR15084912	Homo sapiens	Illumina MiSeq	Lab adapted strain	19.5dpi
+SRR15084913	Homo sapiens	Illumina MiSeq	Lab adapted strain	1dpi
+SRR15084914	Homo sapiens	Illumina MiSeq	Lab adapted strain	18dpi
+SRR15084915	Homo sapiens	Illumina MiSeq	Lab adapted strain	17.5dpi
+SRR15084916	Homo sapiens	Illumina MiSeq	Lab adapted strain	17dpi
+SRR15084917	Homo sapiens	Illumina MiSeq	Lab adapted strain	16dpi
+SRR15084918	Homo sapiens	Illumina MiSeq	Lab adapted strain	13.5dpi
+SRR15084919	Homo sapiens	Illumina MiSeq	Lab adapted strain	13dpi
+SRR15084920	Homo sapiens	Illumina MiSeq	Lab adapted strain	12.4dpi technical replicate
+SRR15084921	Homo sapiens	Illumina MiSeq	Lab adapted strain	12.4dpi
+SRR15084922	Homo sapiens	Illumina MiSeq	Lab adapted strain	9.4dpi
+SRR15084923	Homo sapiens	Illumina MiSeq	Lab adapted strain	9dpi
+SRR15084924	Homo sapiens	Illumina MiSeq	Lab adapted strain	0.5dpi
+SRR15084925	Homo sapiens	Illumina MiSeq	Lab adapted strain	Seed virus
